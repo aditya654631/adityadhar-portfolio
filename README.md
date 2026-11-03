@@ -1,6 +1,6 @@
 # Adityadhar Dwivedi — Portfolio
 
-Static, responsive portfolio built with HTML, CSS, and vanilla JavaScript. No build step or dependencies are required.
+Static, responsive portfolio built with HTML, CSS, and vanilla JavaScript. It features a gently enhanced portrait and a warm white and beige palette. No build step or dependencies are required.
 
 ## Run locally
 
